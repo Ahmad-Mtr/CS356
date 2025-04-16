@@ -1,0 +1,6 @@
+- [x] hru
+- [x] DAC vs MAC
+- [x] Top models with examples
+- [x] TL;DR of those Models + Pros/cons
+- [ ] `fake Oid, fake money`
+- [x] Send 8 + 9

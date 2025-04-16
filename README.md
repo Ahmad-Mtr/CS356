@@ -20,6 +20,15 @@ cd CS356
 ```
 3. Open Obsidian, then open Folder as Vault
 4. enjoy eye-comforting slides
+
+## Topics
+- [DAC vs MAC](dac-mac.md)
+- [HRU Model](hru.md)
+- [Security Models](models.md)
+- [Models Summary](models-summary.md)
+- [8 Design Principles for Security 🔒](design-principles.md)
+- [Practice Questions](practice.md)
+- [Practical Questions](practical.md)
 ---
 ## Issues
 I'll be updating this repo regularly, however I'm lazy. feel free to contact me at `a.mahmoud@gju.edu.jo` if there's an issue or something needs an update.

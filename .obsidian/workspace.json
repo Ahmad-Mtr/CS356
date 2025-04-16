@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "1e98c7a3eeb6641b",
+        "id": "021c7daa097ead79",
         "type": "tabs",
         "children": [
           {
-            "id": "2867d161e21c8e34",
+            "id": "2bbce74cd6591eac",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture 1.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 1"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
-            "id": "f3d112b66ab3b782",
+            "id": "f26deddaa94d9b1d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture 3.pdf"
+                "file": "practical.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 3"
+              "icon": "lucide-file",
+              "title": "practical"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "634dd19f2559f7c1",
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 3.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 3"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -125,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 3.pdf",
+                "file": "Lecture 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 3"
+              "title": "Outgoing links from Lecture 1"
             }
           },
           {
@@ -154,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 3.pdf",
+                "file": "Lecture 1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 3"
+              "title": "Outline of Lecture 1"
             }
           }
         ]
@@ -172,30 +176,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f3d112b66ab3b782",
+  "active": "2bbce74cd6591eac",
   "lastOpenFiles": [
-    "Lecture 1.pdf",
+    "design-principles.md",
     "README.md",
-    "Lecture 3.pdf",
-    "assets/cover.png",
-    "assets/cover.png",
-    "assets",
-    "Lecture 2.pdf",
-    "Lecture 6.pdf",
-    "Lecture 8.pdf",
-    "Lecture 9.pdf",
-    "Lecture 10.pdf",
-    "Lecture 7.pdf",
-    "Lecture 5.pdf"
+    "practical.md",
+    "material/Lecture 8.pdf",
+    "practice.md",
+    "models-summary.md",
+    "models.md",
+    "material/Lecture 10.pdf",
+    "todo.md",
+    "material/Lecture 7.pdf",
+    "material/Lecture 6.pdf",
+    "material/Lecture 5.pdf",
+    "material/Lecture 4.pdf",
+    "material/Lecture 3.pdf",
+    "hru.md",
+    "dac-mac.md",
+    "Pasted image 20250417015301.png",
+    "material/Lecture 2.pdf",
+    "material/Lecture 9.pdf",
+    "material",
+    "assets/cover.png"
   ]
 }
