@@ -21,13 +21,11 @@ cd CS356
 3. Open Obsidian, then open Folder as Vault
 4. enjoy eye-comforting slides
 
-## Topics
-- [DAC vs MAC](dac-mac.md)
-- [HRU Model](hru.md)
-- [Security Models](models.md)
-- [Models Summary](models-summary.md)
-- [8 Design Principles for Security 🔒](design-principles.md)
-- [Practice Questions](practice.md)
+## what you can find here?
+- Summaries like [DAC vs MAC](dac-mac.md), check the `summaries/` folder
+- Mock MCQs in `MCQs_Mock/`
+- `material/`
+- `quiz3/`
 - [Practical Questions](practical.md)
 ---
 ## Issues
